@@ -9,3 +9,4 @@ MATLAB codes and data are coming soon~
 - Compared Algorithms:
   - [Multi-view multi-label canonical correlation
 analysis for cross-modal multimedia retrieva](https://github.com/asharani97/Fast-MVMLCCA)
+- [multi-model semantic autoencoder for cross-modal retrieval](https://github.com/yiling2018/mmsae)
