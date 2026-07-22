@@ -1,4 +1,4 @@
-OSCL MATLAB Demo
+# OSCL MATLAB Demo
 
 This folder contains a compact MATLAB implementation of **Online Semantic
 Correlation Learning (OSCL)** for streaming image--text retrieval. The code
