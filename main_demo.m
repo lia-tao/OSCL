@@ -8,7 +8,7 @@ codeFolder = fileparts(mfilename('fullpath'));
 addpath(codeFolder);
 
 %% Settings
-% dataFile = fullfile(codeFolder, 'NUSWIDE21.mat');
+% dataFile = fullfile(codeFolder, 'NUSWIDE.mat');
 dataFile = fullfile(codeFolder, 'MIRFlickr.mat');
 resultFolder = fullfile(codeFolder, 'results');
 
