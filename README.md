@@ -7,7 +7,7 @@ annotation matrix, and `W` and `G` are the learned projections.
 
 ## Datasets and data splits
 
-The online training chunks and query data for the four evaluated datasets—
+The online training chunks and query data for the four evaluated datasets: 
 IAPR TC-12, MS-COCO, NUS-WIDE, and MIRFlickr—are available from the
 [OSCL dataset folder on Google Drive](https://drive.google.com/drive/folders/1q-LamOdA_M3J0hnLrjm03qF08ZvmnhBe).
   - https://drive.google.com/drive/folders/1q-LamOdA_M3J0hnLrjm03qF08ZvmnhBe
